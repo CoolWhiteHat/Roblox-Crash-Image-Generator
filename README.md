@@ -2,6 +2,11 @@
 
 ---
 
+The program came about when I was playing on Roblox RP servers where people were breaking the RP rules, which led to my frustration and ultimately getting banned for leaving the game during RP. This program was created to generate fake "crash" screenshots to prevent such situations.
+The program is available in two languages, Polish and English.
+
+---
+
 **User manual for the crash image generator for Roblox**
 
 1. **System Requirements:**
